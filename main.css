@@ -223,4 +223,10 @@ footer {
   background-color: #eee;
   margin-top: 20px;
 }
+@media (max-width: 750px) {
+  .links {
+    display: none;
+  }
+}
+
 /* End of footer */
